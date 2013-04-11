@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache", "Cache\Cache.csproj", "{C0EBD13E-BD3A-4EEF-B18D-360DC85AD55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacherTest", "CacherTest\CacherTest.csproj", "{6C97A84B-C022-4415-AC52-05A5FF647F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EBD13E-BD3A-4EEF-B18D-360DC85AD55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EBD13E-BD3A-4EEF-B18D-360DC85AD55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EBD13E-BD3A-4EEF-B18D-360DC85AD55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EBD13E-BD3A-4EEF-B18D-360DC85AD55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C97A84B-C022-4415-AC52-05A5FF647F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C97A84B-C022-4415-AC52-05A5FF647F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C97A84B-C022-4415-AC52-05A5FF647F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C97A84B-C022-4415-AC52-05A5FF647F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
